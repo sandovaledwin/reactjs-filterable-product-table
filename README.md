@@ -1,3 +1,9 @@
+# Filterable Products Table
+
+This the code related with the ReactJS tutorial for [Filterable Products Table](https://reactjs.org/docs/thinking-in-react.html)
+
+![FilterableProductTable](images/products.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
